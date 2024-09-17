@@ -1,0 +1,10 @@
+Image, Compression Factor, Method, Time (sec)
+zbmp24.bmp, 1, numpy, 9.39
+zbmp24.bmp, 1, simple, 151.19
+zbmp24.bmp, 1, advanced, 3.36
+zbmp24.bmp, 3, numpy, 8.59
+zbmp24.bmp, 3, simple, 65.12
+zbmp24.bmp, 3, advanced, 3.22
+zbmp24.bmp, 10, numpy, 8.10
+zbmp24.bmp, 10, simple, 16.40
+zbmp24.bmp, 10, advanced, 3.17
