@@ -1,8 +1,10 @@
 # it-math
 computational mathematics assignments
 
-task1: successfully failed
+task1: done
 
 task2: done
 
 task3: done 
+
+>...<
